@@ -1,0 +1,6 @@
+supplier_id,supplier_name,material,lead_time_days,risk_score,country
+S01,Copper & Conductor Metals Ltd,Copper / Conductors,28,0.35,Chile
+S02,Global Steel Components Inc,Steel Enclosures,21,0.22,USA
+S03,Semicon Power Electronics,Semiconductors / IGBTs,45,0.61,Taiwan
+S04,Precision Molding Solutions,Plastic / Polymer Parts,18,0.18,Mexico
+S05,Battery Cell Systems Pvt Ltd,Battery Cells (UPS),35,0.48,India

@@ -1,0 +1,25 @@
+product_id,product_name,plant_id,plant_name,region,avg_monthly_forecast_demand,lead_time_days,safety_stock_units,reorder_point_units,eoq_units,current_on_hand_units,days_of_cover,status
+P01,Low-Voltage Circuit Breaker,PL01,Pondicherry Plant,APAC,2767.6,19.5,448.0,2247.0,721.0,2511,27.2,OK
+P01,Low-Voltage Circuit Breaker,PL02,Ohio Electrical Plant,North America,3189.1,19.5,523.0,2596.0,774.0,5169,48.6,OK
+P01,Low-Voltage Circuit Breaker,PL03,Cork Distribution Center,EMEA,1551.4,19.5,241.0,1250.0,540.0,1888,36.5,OK
+P01,Low-Voltage Circuit Breaker,PL04,Monterrey Plant,North America,1740.1,19.5,260.0,1391.0,572.0,1602,27.6,OK
+P02,Medium-Voltage Switchgear,PL01,Pondicherry Plant,APAC,183.4,24.5,43.0,193.0,25.0,305,49.9,OK
+P02,Medium-Voltage Switchgear,PL02,Ohio Electrical Plant,North America,211.3,24.5,52.0,224.0,27.0,340,48.3,OK
+P02,Medium-Voltage Switchgear,PL03,Cork Distribution Center,EMEA,109.1,24.5,25.0,114.0,19.0,167,45.9,OK
+P02,Medium-Voltage Switchgear,PL04,Monterrey Plant,North America,109.5,24.5,25.0,115.0,19.0,158,43.3,OK
+P03,Uninterruptible Power Supply (UPS),PL01,Pondicherry Plant,APAC,590.2,40.0,172.0,959.0,69.0,763,38.8,REORDER NOW
+P03,Uninterruptible Power Supply (UPS),PL02,Ohio Electrical Plant,North America,666.7,40.0,184.0,1073.0,73.0,768,34.6,REORDER NOW
+P03,Uninterruptible Power Supply (UPS),PL03,Cork Distribution Center,EMEA,382.9,40.0,97.0,608.0,55.0,304,23.8,REORDER NOW
+P03,Uninterruptible Power Supply (UPS),PL04,Monterrey Plant,North America,321.0,40.0,103.0,531.0,51.0,338,31.6,REORDER NOW
+P04,Power Distribution Unit (PDU),PL01,Pondicherry Plant,APAC,1565.5,45.0,467.0,2815.0,262.0,1712,32.8,REORDER NOW
+P04,Power Distribution Unit (PDU),PL02,Ohio Electrical Plant,North America,1678.8,45.0,558.0,3076.0,272.0,1777,31.8,REORDER NOW
+P04,Power Distribution Unit (PDU),PL03,Cork Distribution Center,EMEA,946.0,45.0,267.0,1686.0,204.0,1261,40.0,REORDER NOW
+P04,Power Distribution Unit (PDU),PL04,Monterrey Plant,North America,798.2,45.0,287.0,1484.0,187.0,1059,39.8,REORDER NOW
+P05,Busway System (per section),PL01,Pondicherry Plant,APAC,1093.1,28.0,227.0,1247.0,174.0,980,26.9,REORDER NOW
+P05,Busway System (per section),PL02,Ohio Electrical Plant,North America,1209.2,28.0,239.0,1368.0,183.0,1131,28.1,REORDER NOW
+P05,Busway System (per section),PL03,Cork Distribution Center,EMEA,609.0,28.0,146.0,715.0,130.0,859,42.3,OK
+P05,Busway System (per section),PL04,Monterrey Plant,North America,621.6,28.0,138.0,718.0,132.0,559,27.0,REORDER NOW
+P06,Wiring Device / Connector Kit,PL01,Pondicherry Plant,APAC,7492.9,18.0,1057.0,5553.0,2319.0,12231,49.0,OK
+P06,Wiring Device / Connector Kit,PL02,Ohio Electrical Plant,North America,8357.8,18.0,1155.0,6170.0,2449.0,10400,37.3,OK
+P06,Wiring Device / Connector Kit,PL03,Cork Distribution Center,EMEA,4881.5,18.0,700.0,3629.0,1872.0,5843,35.9,OK
+P06,Wiring Device / Connector Kit,PL04,Monterrey Plant,North America,4853.9,18.0,682.0,3594.0,1866.0,6205,38.4,OK

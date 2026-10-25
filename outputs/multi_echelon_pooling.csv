@@ -1,0 +1,7 @@
+product_id,num_plants,sum_independent_safety_stock,pooled_regional_safety_stock_estimate,potential_unit_savings,recommendation
+P01,4,1472.0,736.0,736.0,Consider regional buffer pooling
+P02,4,145.0,72.0,72.0,Consider regional buffer pooling
+P03,4,556.0,278.0,278.0,Consider regional buffer pooling
+P04,4,1579.0,790.0,790.0,Consider regional buffer pooling
+P05,4,750.0,375.0,375.0,Consider regional buffer pooling
+P06,4,3594.0,1797.0,1797.0,Consider regional buffer pooling

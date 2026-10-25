@@ -1,0 +1,7 @@
+product_id,product_name,category,segment,unit_cost
+P01,Low-Voltage Circuit Breaker,Circuit Protection,Electrical,145.0
+P02,Medium-Voltage Switchgear,Power Distribution,Electrical,8200.0
+P03,Uninterruptible Power Supply (UPS),Power Quality,Electrical,3400.0
+P04,Power Distribution Unit (PDU),Data Center,Electrical,620.0
+P05,Busway System (per section),Power Distribution,Electrical,980.0
+P06,Wiring Device / Connector Kit,Industrial Components,Electrical,38.0

@@ -1,0 +1,5 @@
+plant_id,plant_name,region,country,role,monthly_capacity_units
+PL01,Pondicherry Plant,APAC,India,Manufacturing,42000
+PL02,Ohio Electrical Plant,North America,USA,Manufacturing,51000
+PL03,Cork Distribution Center,EMEA,Ireland,Distribution,36000
+PL04,Monterrey Plant,North America,Mexico,Manufacturing,39000
